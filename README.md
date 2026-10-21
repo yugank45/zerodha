@@ -12,7 +12,7 @@ A full-stack trading platform inspired by Zerodha, built using React, Node.js, E
 
 ## Tech Stack
 
-- **Frontend:** React, JavaScript, HTML5, CSS3, Material UI
+- **Frontend:** React, JavaScript, HTML5, CSS3, Material UI,Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Authentication:** JWT and HTTP cookies
