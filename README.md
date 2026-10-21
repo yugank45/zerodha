@@ -84,7 +84,7 @@ Zerodha-Clone/
 └── README.md
 ```
 
-*The structure above is illustrative; adjust it to match your actual repository.*
+_The structure above is illustrative; adjust it to match your actual repository._
 
 ## Disclaimer
 
@@ -95,4 +95,4 @@ This project is built for educational and demonstration purposes. It is not affi
 **Yugank Singh**
 
 - GitHub: [@yugank45](https://github.com/yugank45)
-- Project Repository: [Zerodha Clone](https://github.com/yugank45/Zerodha-Clone)
+- Project Repository: [Zerodha Clone](https://github.com/yugank45/Zerodha-Clone)..
